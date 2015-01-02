@@ -61,13 +61,13 @@
 				<td colspan="5">
 					<font size="2">
 						<a href="./BoardReplyView.bo?num=<%=boardBean.getBOARD_NUM()%>">
-							[답변]<%=boardBean.getBOARD_NUM()%>
+							[답변]
 						</a>&nbsp;&nbsp;
 						<a href="./BoardModify.bo?num=<%=boardBean.getBOARD_NUM()%>">
-							[수정]<%=boardBean.getBOARD_NUM()%>
+							[수정]
 						</a>&nbsp;&nbsp;
 						<a href="./BoardDelete.bo?num=<%=boardBean.getBOARD_NUM()%>">
-							[삭제]<%=boardBean.getBOARD_NUM()%>
+							[삭제]
 						</a>&nbsp;&nbsp;
 						<a href="./BoardListAction.bo">[목록]</a>&nbsp;&nbsp;
 					</font>
